@@ -24,10 +24,7 @@ A simple, lightweight **Music Player** built using Python and Tkinter, allowing 
 
 ---
 
-## 📸 Screenshots
-*(Add your app screenshots here)*
 
----
 
 ## 🚀 Installation & Usage
 
